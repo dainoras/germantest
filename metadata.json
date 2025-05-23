@@ -1,0 +1,6 @@
+{
+  "name": "Deutsch lernen mit Jurgita: German Learning Game",
+  "description": "An interactive game to learn German with Jurgita, featuring quizzes for different CEFR levels, powered by Gemini. Test your vocabulary and grammar skills.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
